@@ -1,7 +1,8 @@
 <div class="header sticky-top">
     <nav class="navbar navbar-expand-md navbar-light">
         <a class="navbar-brand" href="index.php">
-            <img src="img/logo.png" />
+            <h2><span>PG</span>4<span>U</span></h2>
+            <!-- <img src="img/logo.png" /> -->
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#my-navbar">
             <span class="navbar-toggler-icon"></span>
